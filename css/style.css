@@ -1,9 +1,39 @@
+body{
+    background-color: white;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+
+}
 .box1 {
     background-color: rgb(255, 119, 168);
-    color: white;
+    
+    border-radius: 25px;
+
 }
 
+.box1 span{
+    color: white;
+
+}
+    
+
+
+
+button{
+    background-color: white;
+    border-radius: 10px;
+}
+
+button:hover{
+    background-color: yellow;
+}
+
+a{
+    text-decoration: none;
+}
 .container {
     width: 60%;
     margin: auto;
+  
 }
